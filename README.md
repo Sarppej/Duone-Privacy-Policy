@@ -34,3 +34,13 @@ Duone is not directed toward children under 13. We do not knowingly collect pers
 If you have any questions, contact:
 
 📧 sarpkayap@gmail.com
+
+## Data Deletion
+
+If you would like to request deletion of your data, you can contact us at:
+
+email: sarpkayap@gmail.com
+
+We will process your request within 7 days.
+
+Since this app does not create user accounts, most data is managed by third-party services (such as advertising providers).
