@@ -1,4 +1,4 @@
-# Privacy Policy – Duone
+# Privacy Policy - Data Deletation – Duone
 
 Effective Date: 22 February 2026
 
